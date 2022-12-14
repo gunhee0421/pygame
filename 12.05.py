@@ -199,7 +199,6 @@ def madescreen_2():
     screen.blit(txt4,[200,720])
     pygame.display.update()
 
-
 def level_1(): 
     for event in pygame.event.get():
         global success
